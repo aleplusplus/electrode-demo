@@ -1,4 +1,4 @@
-ROM node:carbon-alpine
+FROM node:carbon-alpine
 
 # ENV Variables
 ENV DIR /usr/src/app
