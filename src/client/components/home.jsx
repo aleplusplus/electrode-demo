@@ -36,6 +36,7 @@ export default () =>
     <section className={custom.header}>
       <h2 className={skeleton.title}>
         Hello Mundo
+       </h2>
     </section>
 
     <div className={custom["docs-section"]}>
